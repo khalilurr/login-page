@@ -1,0 +1,22 @@
+.admin,form,input{
+
+    background-color: rgb(47, 0, 255);
+    color: rgb(1, 8, 6);
+    width: 70%;
+    text-align: center;
+    font-size: 10px;
+    padding: 5%;
+    margin: auto ;
+
+}
+
+.Links{
+    text-align:end;
+    color: rgb(65, 225, 164);
+    font-size: large;
+}
+input{
+width: 180px;
+font-size: large;
+padding: 5px;
+}
